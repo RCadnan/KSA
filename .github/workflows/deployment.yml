@@ -14,5 +14,5 @@ jobs:
      - name: Deploy Stage
        uses: fjogeleit/http-request-action@v1
        with:
-        url: 'https://api.gotestpro.com:8443/rcteaf-api/api/external/cicd/execute/job/1536171'
+        url: 'https://api.gotestpro.com:8443/rcteaf-api/api/external/cicd/execute/job/2232058'
         method: 'GET'
